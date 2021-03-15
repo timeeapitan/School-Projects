@@ -1,0 +1,2 @@
+Astazi am incercat o idee noua de encriptare si decriptare.
+Sa vedem daca functioneaza conform asteptarilor.
