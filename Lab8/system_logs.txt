@@ -1,0 +1,196 @@
+New event in environment NoEvent{}
+Control step executed
+New event in environment TemperatureEvent{value=43}
+Cooling unit is turned on.
+Current temperature:43
+Current temperature:42
+Current temperature:41
+Current temperature:40
+Current temperature:39
+Current temperature:38
+Current temperature:37
+Current temperature:36
+Current temperature:35
+Current temperature:34
+Current temperature:33
+Current temperature:32
+Current temperature:31
+Current temperature:30
+Current temperature:29
+Current temperature:28
+Current temperature:27
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment TemperatureEvent{value=32}
+Cooling unit is turned on.
+Current temperature:32
+Current temperature:31
+Current temperature:30
+Current temperature:29
+Current temperature:28
+Current temperature:27
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment NoEvent{}
+Control step executed
+New event in environment NoEvent{}
+Control step executed
+New event in environment TemperatureEvent{value=28}
+Cooling unit is turned on.
+Current temperature:28
+Current temperature:27
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment TemperatureEvent{value=47}
+Cooling unit is turned on.
+Current temperature:47
+Current temperature:46
+Current temperature:45
+Current temperature:44
+Current temperature:43
+Current temperature:42
+Current temperature:41
+Current temperature:40
+Current temperature:39
+Current temperature:38
+Current temperature:37
+Current temperature:36
+Current temperature:35
+Current temperature:34
+Current temperature:33
+Current temperature:32
+Current temperature:31
+Current temperature:30
+Current temperature:29
+Current temperature:28
+Current temperature:27
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment TemperatureEvent{value=26}
+Cooling unit is turned on.
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment FireEvent{smoke=false}
+Alarm is raised.
+Owner is called.
+Alarm is raised.
+Owner is called.
+Control step executed
+New event in environment TemperatureEvent{value=25}
+Temperature is at set threshold
+Control step executed
+New event in environment FireEvent{smoke=true}
+Alarm is raised.
+Owner is called.
+Alarm is raised.
+Owner is called.
+Control step executed
+New event in environment TemperatureEvent{value=16}
+Heating unit is turned on.
+Current temperature:16
+Current temperature:17
+Current temperature:18
+Current temperature:19
+Current temperature:20
+Current temperature:21
+Current temperature:22
+Current temperature:23
+Current temperature:24
+Temperature threshold reached. Heating unit is turning off.
+Control step executed
+New event in environment TemperatureEvent{value=31}
+Cooling unit is turned on.
+Current temperature:31
+Current temperature:30
+Current temperature:29
+Current temperature:28
+Current temperature:27
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment TemperatureEvent{value=30}
+Cooling unit is turned on.
+Current temperature:30
+Current temperature:29
+Current temperature:28
+Current temperature:27
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment NoEvent{}
+Control step executed
+New event in environment FireEvent{smoke=true}
+Alarm is raised.
+Owner is called.
+Alarm is raised.
+Owner is called.
+Control step executed
+New event in environment TemperatureEvent{value=38}
+Cooling unit is turned on.
+Current temperature:38
+Current temperature:37
+Current temperature:36
+Current temperature:35
+Current temperature:34
+Current temperature:33
+Current temperature:32
+Current temperature:31
+Current temperature:30
+Current temperature:29
+Current temperature:28
+Current temperature:27
+Current temperature:26
+Temperature threshold reached. Cooling unit is turning off.
+Control step executed
+New event in environment FireEvent{smoke=true}
+Alarm is raised.
+Owner is called.
+Alarm is raised.
+Owner is called.
+Control step executed
+New event in environment TemperatureEvent{value=14}
+Heating unit is turned on.
+Current temperature:14
+Current temperature:15
+Current temperature:16
+Current temperature:17
+Current temperature:18
+Current temperature:19
+Current temperature:20
+Current temperature:21
+Current temperature:22
+Current temperature:23
+Current temperature:24
+Temperature threshold reached. Heating unit is turning off.
+Control step executed
+New event in environment TemperatureEvent{value=3}
+Heating unit is turned on.
+Current temperature:3
+Current temperature:4
+Current temperature:5
+Current temperature:6
+Current temperature:7
+Current temperature:8
+Current temperature:9
+Current temperature:10
+Current temperature:11
+Current temperature:12
+Current temperature:13
+Current temperature:14
+Current temperature:15
+Current temperature:16
+Current temperature:17
+Current temperature:18
+Current temperature:19
+Current temperature:20
+Current temperature:21
+Current temperature:22
+Current temperature:23
+Current temperature:24
+Temperature threshold reached. Heating unit is turning off.
+Control step executed.
